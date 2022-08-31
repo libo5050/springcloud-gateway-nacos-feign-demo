@@ -1,0 +1,4 @@
+第一步:启动alibabaNacos目录的nacos服务。
+第二步:启动gateway服务。
+第三步:启动feignClient服务。
+第四步:启动feignConsumer服务。
